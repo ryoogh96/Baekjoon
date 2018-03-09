@@ -1,0 +1,16 @@
+
+WorldMap[colorpapers[i].xAxis][colorpapers[i].yAxis]
+
+tempx = colorpap 
+tempy 
+
+colorpapers[i].xAxis 
+
+colorpapers[i].yAxis
+
+
+WorldMap[j][k] = i; 에 넣을때 만약
+
+2
+0 0 10 10
+1 1 5 5

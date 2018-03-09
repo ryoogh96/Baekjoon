@@ -1,0 +1,5 @@
+현재 cur번째 일때 최대값
+
+nxt = s + cur < nxt.h
+
+dp[cur] = max(dp[nxt] + cur.w, dp[cur], cur.w)

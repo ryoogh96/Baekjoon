@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515406415 source:d:\university\practice\acmicpc-11399\main.cpp
+	<cstdio>
+	<bits/stdc++.h>
+

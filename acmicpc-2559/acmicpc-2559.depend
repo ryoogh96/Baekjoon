@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516785202 source:d:\university\practice\acmicpc\acmicpc-2559\main.cpp
+	<cstdio>
+	<vector>
+	<algorithm>
+	<functional>
+

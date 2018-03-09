@@ -1,0 +1,16 @@
+stack1,stack2 선언
+
+stack1에 입력받은 탑을 다push한다
+
+
+비교할때 
+
+int tmp = stack1.pop();
+
+if(stack2.empty())
+{
+    int tmp2 = stack1.pop();
+    if(tmp2 > tmp1) 
+
+
+

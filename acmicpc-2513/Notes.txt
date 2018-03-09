@@ -1,0 +1,6 @@
+Sample Test Case
+
+3 1 4
+0 1
+2 2
+5 1
